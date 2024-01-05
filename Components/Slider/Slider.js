@@ -30,7 +30,7 @@ const Slider = () => {
         <div className="carousel-inner">
           <div className="carousel-item active">
             <img
-              src="https://scontent-hbe1-1.xx.fbcdn.net/v/t1.15752-9/400372998_679580334288991_5622632515192640990_n.png?_nc_cat=102&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=oJNWA3o2QTUAX8IdlGU&_nc_ht=scontent-hbe1-1.xx&oh=03_AdQpM9x3Z2hJwQgbKpqYE_FzJS-A9MPtFpfthHxOHTmeEg&oe=65B3EFD4"
+              src="https://sixincorp.com/wp-content/uploads/2022/10/Lets-get-started-with-SIX.png"
               className="d-block wow slideInRight"
               data-wow-duration="2s"
               alt="..."
@@ -40,7 +40,7 @@ const Slider = () => {
               data-wow-duration="2s"
             >
               <p className="mb-4 text-dark">
-                ?? In this season, find the best{" "}
+                🔥 In this season, find the best{" "}
               </p>
               <h2 className="mb-4 text-dark">
                 Exclusive collection for
@@ -53,7 +53,7 @@ const Slider = () => {
           </div>
           <div className="carousel-item">
             <img
-              src="https://scontent-hbe1-1.xx.fbcdn.net/v/t1.15752-9/403636733_902364154460364_5801700809206945113_n.png?_nc_cat=108&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=xjwlBbnh1fcAX-_ZIuY&_nc_ht=scontent-hbe1-1.xx&oh=03_AdQPx45aE2Bb9iswGLdcn1lukPt6ne1mJL_hVeIopPxVAg&oe=65B3F83E"
+              src="https://townteam.com/cdn/shop/files/TSH22SCOT20375TM1-OceanBlue.jpg?v=1698309127"
               className="d-block wow slideIn wow slideInRight"
               data-wow-duration="2s"
               alt="..."
@@ -63,7 +63,7 @@ const Slider = () => {
               data-wow-duration="2s"
             >
               <p className="mb-4 text-dark">
-                ?? In this season, find the best{" "}
+                🔥 In this season, find the best{" "}
               </p>
               <h2 className="mb-4 text-dark">
                 Exclusive collection for
@@ -76,7 +76,7 @@ const Slider = () => {
           </div>
           <div className="carousel-item">
             <img
-              src="https://scontent-hbe1-1.xx.fbcdn.net/v/t1.15752-9/403636721_352894024112187_8676438797263229552_n.png?_nc_cat=104&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=tFrF2UmyDfYAX8fWoec&_nc_ht=scontent-hbe1-1.xx&oh=03_AdQUHMKxS5PPh4z0zMJAT3PS1j8t8ew1vLHMhWLAETt3Gg&oe=65B400FB"
+              src="https://townteam.com/cdn/shop/products/DSC_6101.jpg?v=1690456182"
               className="d-block wow slideInRight"
               data-wow-duration="2s"
               alt="..."
@@ -86,7 +86,7 @@ const Slider = () => {
               data-wow-duration="2s"
             >
               <p className="mb-4 text-dark">
-                ?? In this season, find the best{" "}
+                🔥 In this season, find the best{" "}
               </p>
               <h2 className="mb-4 text-dark">
                 Exclusive collection for
